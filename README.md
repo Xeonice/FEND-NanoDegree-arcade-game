@@ -1,5 +1,17 @@
 # FEND NanoDegree-arcade-game
-[TOC]
+* [FEND NanoDegree-arcade-game](#fend-nanodegree-arcade-game)
+ * [简介](#简介)
+ * [结构说明](#结构说明)
+    * [Object Enemy](#object-enemy)
+    * [Enemy.prototype.update](#enemyprototypeupdate)
+    * [Enemy.prototype.render](#enemyprototyperender)
+    * [Object Player](#object-player)
+    * [Player.prototype.update](#playerprototypeupdate)
+    * [Player.prototype.render](#playerprototyperender)
+    * [Player.prototype.handleInput](#playerprototypehandleinput)
+    * [Player.prototype.checkCollisions](#playerprototypecheckcollisions)
+ * [操作说明](#操作说明)
+
 ## 简介
 该项目依照NanoDegree P5要求制作，在标准模版的基础之上进行了部分修改。
 ## 结构说明
